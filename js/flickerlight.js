@@ -1,5 +1,5 @@
 /**
- * Flicker Light
+ * flickerlight
  *
  * Copyright 2017-01-01 greenishsea
  * Dual licensed under MIT and GPL.

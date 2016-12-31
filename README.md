@@ -1,4 +1,4 @@
-# Flicker Light
+# flickerlight
 
 ## Usage
 Load flickerlight.css and flickerlight.js.  
