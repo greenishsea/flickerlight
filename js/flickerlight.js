@@ -28,7 +28,7 @@ window.addEventListener("DOMContentLoaded", function(){
 
   var flickerRenderer = {
     render: function(){
-      for (var i = 0; i <= amount; i++) {
+      for (var i = 0; i < amount; i++) {
         var flicker = this.getNewFlicker();
         flicker.style.top = this.rand() * 100 + "%";
         flicker.style.left = this.rand() * 100 + "%";
